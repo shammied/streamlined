@@ -1,0 +1,14 @@
+                precision    recall  f1-score   support
+
+    caquinte       0.61      0.93      0.74     38769
+     irantxe       0.83      0.65      0.73     94318
+         kwa       0.65      0.43      0.52     39258
+   lakurumau       0.06      0.22      0.10      6942
+         nlu       0.82      0.51      0.63     29865
+        pech       0.64      0.46      0.54     34663
+        puma       0.54      0.63      0.58     30387
+      saaroa       0.41      0.59      0.48     25785
+
+    accuracy                           0.61    299987
+   macro avg       0.57      0.55      0.54    299987
+weighted avg       0.67      0.61      0.62    299987
